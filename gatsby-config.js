@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Michael Elizondo`,
-      summary: `I have red hair.`,
+      summary: `I am a technological, experienced IT professional with demonstrated excellence in IT Engineering and Project Management. I am focused and motivated in directing IT teams in complex projects due to company growth and profit.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
