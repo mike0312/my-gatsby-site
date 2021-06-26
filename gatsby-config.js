@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Michael Elizondo`,
     author: {
       name: `Michael Elizondo`,
       summary: `I am a technological, experienced IT professional with demonstrated excellence in IT Engineering and Project Management. I am focused and motivated in directing IT teams in complex projects due to company growth and profit.`,
@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `@Michael41013981`,
     },
   },
   plugins: [
