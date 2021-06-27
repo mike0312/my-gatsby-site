@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Michael Elizondo`,
     author: {
-      name: `Michael Elizondo`,
+      name: `Michael Elizondo
+      IT Manager`,
       summary: `I am a technological, experienced IT professional with demonstrated excellence in IT Engineering and Project Management. I am focused and motivated in directing IT teams in complex projects due to company growth and profit.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
